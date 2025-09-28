@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 python-docx = "*"
+docxcompose = "*"
+lxml = "*"
 
 [dev-packages]
 
